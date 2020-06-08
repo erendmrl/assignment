@@ -1,0 +1,14 @@
+{
+  "n11.com": {
+    "baseUrl": "https://www.n11.com/",
+    "homePageTitle": "n11.com - Alışverişin Uğurlu Adresi",
+    "loginEmail": "testerendemirel@outlook.com",
+    "loginPassword": "Test123456qwe",
+    "fullName": "Eren Demirel",
+    "searchResultsForbilgisayarSecondPageTitle": "Bilgisayar - n11.com - 2/50"
+  },
+  "someOtherSite": {
+    "baseUrl": "blabla",
+    "title": "fgdjfgfh"
+  }
+}
