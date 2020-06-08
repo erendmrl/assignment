@@ -1,5 +1,5 @@
 ### Testleri Çalıştırma
-- **Browser ve driver path'leri /config altındaki config.properties dosyasından değiştirin**. Şu an desteklenen browser'lar: Chrome ve Firefox
+- **Browser ve driver path'leri /config altındaki config.properties dosyasından değiştirin. 'browser' parametresi tamamen küçük harflerden oluşmalıdır,** örn. browser = chrome. Şu an desteklenen browser'lar: Chrome ve Firefox
 - **Testler @Nested annotation'ı kullanılarak üç adet class'ta organize edilmiştir, lokasyonları:** src/test/java/testclasses/
 ### Dosya lokasyonları
 - Log dosyası ve ürün bilgileri dosyası proje altına çıkmaktadır. Log dosyası lokasyonu: src/main/resources/logfile.log
